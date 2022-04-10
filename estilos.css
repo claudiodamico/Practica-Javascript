@@ -1,0 +1,46 @@
+.header{
+    text-align: center;
+    text-shadow: 1rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: aquamarine;
+}
+
+.header h1 {
+    text-shadow: 1rem;
+}
+
+.section {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 600px;
+    background-color: azure;
+    align-items: center;
+}
+
+.form {
+    align-content: center;
+}
+
+.form-control {
+    width: 400px;
+}
+
+.center-form {
+    display: block;
+    width: 100%;
+    margin: 0px auto;
+    width: 30%;
+
+}
+
+.input {
+    padding-top: 10px;
+}
+
+.buttons {
+    padding-top: 20px;
+}
+
+
+
